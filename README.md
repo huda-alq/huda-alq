@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌸 About Me:
 Hi there! I'm Huda, an AI Engineer and Data Scientist with a passion for building intelligent systems and solving complex problems. My expertise spans machine learning, data analysis, and robotics, with a focus on creating efficient models and algorithms.<br><br>🔍 I specialize in developing machine learning pipelines, analyzing datasets, and applying advanced algorithms to extract valuable insights. My current work includes projects in the areas of emotion-sensing robotics and various AI applications in business and healthcare.<br><br>📚 Technologies I work with:<br><br>Python (Pandas, NumPy, Matplotlib)<br><br>Machine Learning (scikit-learn, TensorFlow)<br><br>C++ for algorithm design<br><br>Robotics (ROS)<br><br>Web development<br><br>🌱 Continuously learning and always looking for new opportunities to collaborate on impactful projects!
 
 
