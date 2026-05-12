@@ -1,4 +1,4 @@
-🌸Hi! I'm Huda, an AI Engineer and Data Scientist with a passion for building intelligent systems and solving complex problems. My expertise spans machine learning, data analysis, and robotics, with a focus on creating efficient models and algorithms.<br><br>🌱 Continuously learning and always looking for new opportunities to collaborate on impactful projects!
+🌸Hi! I'm Huda, an AI Engineer and Data Scientist with a passion for building intelligent systems and solving complex problems. My expertise spans machine learning, data analysis, NLP, and robotics, with a focus on creating efficient models and algorithms.<br><br>🌱 Continuously learning and always looking for new opportunities to collaborate on impactful projects!
 
 
 ## 🌐 Socials:
